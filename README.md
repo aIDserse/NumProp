@@ -9,8 +9,8 @@ On my site there is a photo of the algorythm and an explaination of it
     <img src="https://raptor.martincarlisle.com/VELOC.gif" width="184" height="82">
   </a>
 </p>
-<p>The .rap file has to be opened with the raptor flowchart interpreter</p>
-<p>On the releases you can find the .exe file</p>
-<p>With the interpreter you can convert the .rap in several languages</p>
+The .rap file has to be opened with the raptor flowchart interpreter
+On the releases you can find the .exe file
+With the interpreter you can convert the .rap in several languages
 # License
 The code is under WTFPL license. It's nearly like GPL, but better:))
