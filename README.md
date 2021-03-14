@@ -7,7 +7,9 @@ On my site there is a photo of the algorythm and an explaination of it
 <p align="center">
   <a href="https://raptor.martincarlisle.com/">
     <img src="https://raptor.martincarlisle.com/VELOC.gif" width="184" height="82">
+  </a>
 </p>
+</a>
 The .rap file has to be opened with the raptor flowchart interpreter<br>
 On the releases you can find the .exe file<br>
 With the interpreter you can convert the .rap in several languages</br>
