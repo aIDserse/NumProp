@@ -10,6 +10,6 @@ On my site there is a photo of the algorythm and an explaination of it
 </p>
 The .rap file has to be opened with the raptor flowchart interpreter<br>
 On the releases you can find the .exe file<br>
-With the interpreter you can convert the .rap in several languages
+With the interpreter you can convert the .rap in several languages<br>
 # License
 The code is under WTFPL license. It's nearly like GPL, but better:))
