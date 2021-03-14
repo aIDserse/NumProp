@@ -5,7 +5,7 @@ On my site there is a photo of the algorythm and an explaination of it
 # How do I open it?
 <p align="center">
   <a href="https://raptor.martincarlisle.com/">
-    <img src=""https://raptor.martincarlisle.com/VELOC.gif" alt="Logo" width="184" height="82">
+    <img src=""https://raptor.martincarlisle.com/VELOC.gif" width="184" height="82">
   </a>
 # License
 The code is under WTFPL license. It's nearly like GPL, but better:))
