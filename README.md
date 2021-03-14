@@ -2,6 +2,8 @@
 A flowchart diagram that extracts the properties of the entered numbers<br>
 It calculates if the number is even or odd, prime or not and the prime number factorization.<br>
 On my site there is a photo of the algorythm and an explaination of it
+# License
+The code is under WTFPL license. It's nearly like GPL, but better:))
 # How do I open it?
 <!-- PROJECT LOGO -->
 <p align="center">
@@ -12,6 +14,3 @@ On my site there is a photo of the algorythm and an explaination of it
 The .rap file has to be opened with the raptor flowchart interpreter<br>
 On the releases you can find the .exe file<br>
 With the interpreter you can convert the .rap in several languages</br>
-</a>
-# License
-The code is under WTFPL license. It's nearly like GPL, but better:))
