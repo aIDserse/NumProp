@@ -5,7 +5,7 @@ On my site there is a photo of the algorythm and an explaination of it
 # How do I open it?
 <br />
 <p align="center">
-  <a href="https://github.com/Gyro7/gofetch">
+  <a href="https://raptor.martincarlisle.com/">
     <img src="https://i.imgur.com/jkoGdvD.jpg" alt="Logo" heigth="60">
   </a>
 </p>
