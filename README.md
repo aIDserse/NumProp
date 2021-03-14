@@ -9,5 +9,6 @@ On my site there is a photo of the algorythm and an explaination of it
     <img src="https://i.imgur.com/jkoGdvD.jpg" alt="Logo" heigth="60">
   </a>
 </p>
+<br><br/>
 # License
 The code is under WTFPL license. It's nearly like GPL, but better:))
