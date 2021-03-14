@@ -6,7 +6,7 @@ On my site there is a photo of the algorythm and an explaination of it
 <br />
 <p align="center">
   <a href="https://raptor.martincarlisle.com/">
-    <img src="https://i.imgur.com/jkoGdvD.jpg" alt="Logo" heigth="60">
+    <img src="https://raptor.martincarlisle.com/VELOC.gif" alt="Logo" heigth="60">
   </a>
 </p>
 <br><br/>
