@@ -4,10 +4,9 @@ It calculates if the number is even or odd, prime or not and the prime number fa
 On my site there is a photo of the algorythm and an explaination of it
 # How do I open it?
 <!-- PROJECT LOGO -->
-<<p> align="center">
+<p align="center">
   <a href="https://raptor.martincarlisle.com/">
     <img src="https://raptor.martincarlisle.com/VELOC.gif" width="184" height="82">
-  </a>
 </p>
 The .rap file has to be opened with the raptor flowchart interpreter<br>
 On the releases you can find the .exe file<br>
