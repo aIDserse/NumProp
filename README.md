@@ -1,7 +1,7 @@
 # NumProp
 A flowchart diagram that extracts the properties of the entered numbers<br>
 It calculates if the number is even or odd, prime or not and the prime number factorization.<br>
-On my site there is a photo of the algorythm and an explaination of it
+<a href="https://vbhack-numprop-analysys.netlify.app/">On my site there is a photo of the algorythm and an explaination of it</a>
 # License
 The code is under WTFPL license. It's nearly like GPL, but better:))
 # How do I open it?
